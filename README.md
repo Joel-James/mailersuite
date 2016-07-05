@@ -1,1 +1,1 @@
-# sourcemail
+# Mailer Suite
